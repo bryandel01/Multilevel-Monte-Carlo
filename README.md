@@ -6,7 +6,3 @@ Quantitative Finance. (2008)
 2. Worst-Of Autocallables Pricing, using Monte Carlo method.
 
 3. CORRÉLATION ENTRE TOPONYMIE ET GÉOGRAPHIE DES COMMUNES FRANÇAISES.
-
-4. Deep learning (rough) volatility and deep calibration of rough stochastic volatility models.
-
-5. Deep hedging under rough volatility.
